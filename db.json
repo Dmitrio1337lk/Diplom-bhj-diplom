@@ -232,6 +232,15 @@
       "account_id": "cdwn9z8kysj86ec",
       "user_id": "cdwn53wkyokozpk",
       "created_at": "2022-01-24T10:14:14.767Z"
+    },
+    {
+      "id": "1h3jjkkz2zy4w8",
+      "type": "income",
+      "name": "Dmitrio",
+      "sum": 222,
+      "account_id": "cdwn11wkysj83qb",
+      "user_id": "cdwn53wkyokozpk",
+      "created_at": "2022-01-31T17:59:35.239Z"
     }
   ]
 }
